@@ -21,10 +21,12 @@ Users can upload a leaf image through the web interface. The trained CNN process
 
 ## Model Performance
 
-Architecture => Convolutional Neural Network (CNN) 
-Number of supported classes => 38 
-Test accuracy => 95.98% 
-Input image size => 224 × 224 pixels
+| Metric | Result |
+|---|---:|
+| Architecture | Convolutional Neural Network (CNN) |
+| Number of supported classes | 38 |
+| Test accuracy | 95.98% |
+| Input image size | 224 × 224 pixels |
 
 The reported accuracy is the result obtained during evaluation on this project's test set. It should not be interpreted as a guarantee of the same performance on every real-world image.
 
