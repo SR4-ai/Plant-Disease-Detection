@@ -58,11 +58,9 @@ Plant-Disease-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/SR4-ai/Plant-Disease-Detection
 cd Plant-Disease-Detection
 ```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with the URL of your GitHub repository.
 
 ### 2. Create a virtual environment
 
