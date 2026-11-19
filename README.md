@@ -38,7 +38,7 @@ The reported accuracy is the result obtained during evaluation on this project's
 
 ## Project Structure
 
-
+```text
 Plant-Disease-Detection/
 │
 ├── app/
@@ -51,7 +51,7 @@ Plant-Disease-Detection/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ## Getting Started
 
